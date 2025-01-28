@@ -22,7 +22,7 @@ I’m currently engaging in **data analysis** projects using **Python** and **R*
 
 - [LinkedIn](https://www.linkedin.com/in/korkemzharylkap/)
 
----
+--
 
 ## Thanks for stopping by!
 
