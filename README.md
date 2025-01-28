@@ -4,6 +4,7 @@ I'm Korkem Zharylkap, a sophomore at the University of Notre Dame majoring in Bu
 ## About Me
 
 - 🎓 I'm a Business Analytics student at Notre Dame.
+- 💻 I'm like making project that solve real-world problems
 - 💬 Feel free to reach out if you're interested in collaborating on something!
 
 ## Projects
