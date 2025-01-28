@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Korkem Zharylkap, a sophomore at the University of Notre Dame majoring in Business Analytics and minoring in Computing & Digital Technologies. I am passionate about data analytics, machine learning, and AI. I code can code in Python and R. Here you'll find some of the projects I've been working on.
+I'm Korkem Zharylkap, a sophomore at the University of Notre Dame majoring in Business Analytics and minoring in Computing & Digital Technologies. I am passionate about data analytics, machine learning, and AI. I code in Python and R. Here you'll find some of the projects I've been working on.
 
 ## About Me
 
