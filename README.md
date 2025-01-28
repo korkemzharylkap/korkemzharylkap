@@ -9,7 +9,7 @@ I’m **Korkem Zharylkap**, a sophomore at the University of Notre Dame majoring
 
 ## Projects
 
-I’m currently engaging in **data analysis** projects using **Python** and **R**. Feel free to explore my repositories to see the projects I’m working on.
+I’m currently engaging in **data analysis** projects using **Python** and **R**. I aim to focus more on **exploratory data analysis (EDA)**, **data visualization**, and **data modeling** projects. Feel free to explore my repositories to see the projects I’m working on.
 
 ## Current Research Interests
 
