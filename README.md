@@ -1,29 +1,30 @@
 ## Hi there 👋
-I'm Korkem Zharylkap, a sophomore at the University of Notre Dame majoring in Business Analytics and minoring in Computing & Digital Technologies. I am passionate about data analytics, machine learning, and AI. I code in Python and R. Here you'll find some of the projects I've been working on.
+I’m **Korkem Zharylkap**, a sophomore at the University of Notre Dame majoring in **Business Analytics** and minoring in **Computing & Digital Technologies**. I’m passionate about **data analytics**, **machine learning**, and **AI**, and I enjoy solving real-world problems through code. I primarily code in **Python** and **R**, and I’m excited to share my projects with you!
 
 ## About Me
 
-- 🎓 I'm a Business Analytics student at Notre Dame.
-- 💻 I'm like making project that solve real-world problems
-- 💬 Feel free to reach out if you're interested in collaborating on something!
+- 🎓 **Business Analytics** student at Notre Dame
+- 💻 Working on projects that address **real-world challenges**
+- 💬 Open to collaborations! Feel free to reach out if you're interested.
 
 ## Projects
 
-I plan to engage in data analysis projects using Python and R. 
-
-Feel free to explore more in my repositories!
+I’m currently engaging in **data analysis** projects using **Python** and **R**. Feel free to explore my repositories to see the projects I’m working on.
 
 ## Current Research Interests
 
-- Data Analytics
-- Machine LEarning
-- Machine Modeling
-- Artificial Intelligence (AI)
-  
+- **Data Analytics**
+- **Machine Learning**
+- **Machine Modeling**
+- **Artificial Intelligence (AI)**
+
 ## Connect with Me
+
 - [LinkedIn](https://www.linkedin.com/in/korkemzharylkap/)
 
+---
 
 ## Thanks for stopping by!
 
-Feel free to explore my projects and reach out to me. Let's connect and collaborate!
+Feel free to explore my projects and reach out. I’m always excited to connect and collaborate!
+
