@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m **Korkem Zharylkap**, a sophomore at the University of Notre Dame majoring in **Business Analytics** and minoring in **Computing & Digital Technologies**. I’m passionate about **data analytics**, **machine learning**, and **AI**, and I enjoy solving real-world problems through code. I primarily code in **Python** and **R**, and I’m excited to share my projects with you!
+I’m **Korkem Zharylkap**, a sophomore at the University of Notre Dame majoring in **Business Analytics** and minoring in **Computing & Digital Technologies**. I’m passionate about **data analytics**, **machine learning**, and **AI**, and I enjoy solving real-world problems through coding. I primarily code in **Python** and **R**, and I’m excited to share my projects with you!
 
 ## About Me
 
@@ -18,9 +18,19 @@ I’m currently engaging in **data analysis** projects using **Python** and **R*
 - **Machine Modeling**
 - **Artificial Intelligence (AI)**
 
+## Skills
+- 💻 **Programming**: Proficient in Python | Learning R  
+- 📊 **Data Analysis & Visualization**: Experienced in Microsoft Excel | Learning Power BI  
+- 🗄️ **Databases**: Currently learning SQL  
+
+## Goals  
+- 🤖 **Machine Learning**: Developing a strong foundation in ML techniques this semester  
+- 📈 **Analytics Tools**: Advancing my skills in Power BI and SQL for deeper data analysis
+
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/korkemzharylkap/)
+- [Email](kzharylk@nd.edu)
 
 
 ## Thanks for stopping by!
