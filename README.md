@@ -27,7 +27,6 @@ I’m currently engaging in **data analysis** projects using **Python** and **R*
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-<br />
 
 ## Goals  
 - 🤖 **Machine Learning**: Developing a strong foundation in ML techniques this semester  
